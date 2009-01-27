@@ -1,0 +1,34 @@
+Like others, I am trying to scale down my e-mail usage. See "Tantek's post on e-mail being e-fail":http://tantek.com/log/2008/02.html#d19t2359. I have put up this page to help you communicate with me easier.
+
+h1. Communication Mediums I Like
+
+* *IRC* is one of my favourite mediums of communication. It's fun, allows people to _afk_ and has a very good signal:noise ratio. It also de-bullshits people - you are no longer the CEO/Head Honcho/Vice-Chancellor/Prime Minister - you are just a string of characters and whatever reputation has built up around those. I am tommorris on irc.freenode.net and hang out on channels I am interested in - #microformats, #swig, #geekdinner, #git, #github, #foaf etc. I also have channels for specific events - if I blog or tweet about an IRC channel, you can bet I'm on there.
+* *IM* is good too. My preferred network is _Jabber/XMPP_ (over GTalk), although I also have accounts on AIM, Yahoo! MSN, Facebook and LiveJournal.
+* *Twitter*
+
+h1. Communication Mediums I Don't Like
+
+* *E-mail* is a huge time suck, and it's a viral time suck. Because it encourages other bad practices, it spreads evil far and wide.
+* *Facebook* and *MySpace*. I'm only on them because it's socially expected. I don't actually _like_ them.
+* *Telephone* and *voicemail*. I'm perhaps one of the few people on the planet to have a voicemail warning rather than a greeting. That's because it costs me money to get voicemail, and I don't get it very quickly. I would much prefer almost any other mechanism than phone. It's really intrusive. If someone phones me, I have to drop whatever I'm doing and answer it. And people seem to have extremely short attention spans. If I don't answer my phone in two rings, you ring off, and then I'm forced to play telephone tag with you. Be patient.
+
+h1. How to communicate efficiently
+
+    * Speak to me like a human being, not like a "tosser":http://en.wiktionary.org/wiki/tosser .
+    * Don't waste my time - get to the point quickly.
+    * Don't equivocate, use "logical fallacies":http://www.nizkor.org/features/fallacies/ , lie or attempt to befuddle me with marketese.
+    * DO put things on the Internet, and give me a URI. Giving something a URI "makes it useful":http://www.w3.org/DesignIssues/HTTP-URI.html in a way that putting it in an e-mail does not.
+          ** For photos, put them up on "Flickr":http://flickr.com/ .
+          ** For events, put them up on "Upcoming":http://upcoming.yahoo.com .
+          ** For data, put it in an RDF file and put it up on the net.
+          ** For almost everything else, get a blog and post them there. 
+    * Tell me what I need to do. It should take me less than about five seconds to figure out what I actually have to do, otherwise it goes to the bottom of the queue.
+    * "Don't top post":http://www.caliburn.nl/topposting.html .
+    * Don't send me large attachments.
+    * Don't send me Microsoft Office files.
+    * Don't send me files in complex formats when simple ones exist. ASCII, HTML, simple XML formats and so on are preferred over PDF and large graphics.
+    * Don't expect immediate responses. I do other things than just respond to your e-mails. 
+
+h1. Suggested practices
+
+* On conference announcements, put them up on the Web and then send a very abbreviated version to the mailing list. That way, you aren't cluttering up my inbox - and I can forward them on to other people without using e-mail.
